@@ -1,2 +1,2 @@
-# atelierdelleparole-site
-Atelier delle parole website - atelierdelleparole.com
+# Website of Atelier delle parole
+atelierdelleparole.com
