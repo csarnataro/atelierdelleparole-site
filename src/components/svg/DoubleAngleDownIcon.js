@@ -5,7 +5,7 @@ const DoubleAngleDownIcon = ({ className, title = "" }) => (
     style={{ display: "inline-block" }}
     className={`fill-current h-10 w-10 ${className}`}
     viewBox='0 0 1792 1792'
-    xmlns='http://www.w3.org/2000/svg'
+    xmlns='https://www.w3.org/2000/svg'
   >
     <title>{title}</title>
 
