@@ -32,7 +32,7 @@ const SectionIntro = () => {
       id='intro'
       className='bg-fixed h-screen pt-24 lg:pt-56'
       fluid={imageData}
-      backgroundColor={`#040e18`}
+      backgroundColor={`#b4dcdb`}
     >
       <div className='container mx-auto text-center'>
         <h1 className='pt-12 lg:pt-0 text-4xl lg:text-6xl text-white uppercase font-bold text-shadow-md'>
