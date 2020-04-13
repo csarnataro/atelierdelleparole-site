@@ -1,0 +1,78 @@
+  {
+    "nav": {
+      "headline": "Atelier delle parole",
+      "menuItems": [
+        {
+          "label": "Home",
+          "link" : "#intro"
+        },
+        {
+          "label": "Cos'è",
+          "link" : "#about"
+        },
+        {
+          "label": "Cosa fa",
+          "link" : "#services"
+        },
+        {
+          "label": "Chi è",
+          "link" : "#who"
+        },
+        {
+          "label": "Contatti",
+          "link" : "#contacts"
+        }
+      ]
+    },
+    "intro": {
+      "title": "Lo spazio di una traduttrice",
+      "quote": "Più avanti, per esempio, lei mi traduce: <i>gli strinse la mano</i>. Ebbene, l'inglese è più preciso, e dice infatti: <i>he shook his hand</i>, cioè egli strinse, ma più precisamente scosse, la sua mano, o se vuole, meglio ancora, <i>egli scosse la mano di lui</i>.",
+      "author": "Luciano Bianciardi - <i>La vita agra</i>"
+    },
+    "about": {
+      "title": "Cos'è l'Atelier",
+      "description": "Lʼatelier è lo spazio in cui mi diverto lavorando con le parole. Come lʼatelier di un sarto o lo studio di un pittore, questo è il mio spazio di espressione. È il luogo in cui il lavoro sulle parole si combina con la precisione sartoriale, proprio perché ogni lavoro è unico e va rifinito come se fosse un abito cucito su misura."
+
+    }, 
+    "services": {
+      "title": "Cosa fa l'Atelier",
+      "languages": "Combinazioni linguistiche: EN > IT e DE > IT",
+      "services": 
+        {
+          "videogames": {
+            "title": "Videogiochi",
+            "icon": "/images/icons/games.png",
+            "description": "Localizzazione di videogiochi per console, PC e dispositivi mobili per aziende leader del settore.<br>Traduzione e revisione di script, dialoghi, in-game, manuali, siti Web e comunicati stampa."
+          },
+          "audio": {
+            "title": "Audiovisivi",
+            "icon": "/images/icons/audiovisual.png",
+            "description": "Sottotitolazione, traduzione e adattamento per serie televisive, film, video di marketing. Sottotitolazione di contenuti video per non udenti."
+            
+          },
+          "books": {
+            "title": "Editoria",
+            "icon": "/images/icons/books.png",
+            "description": "Traduzione di articoli per periodici, notizie e attualità. Traduzione di romanzi e saggistica. Specializzazione in letteratura per bambini e ragazzi."
+
+          }
+
+        }
+
+    },
+    "who": {
+      "title": "Chi è l'Atelier",
+      "subtitle": "L'Atelier sono io, Cristina.",
+      "description": "Sono laureata in interpretariato e traduzione e ho un master in traduzione editoriale e tecnico-scientifica. Ho frequentato corsi di specializzazione in sottotitolazione e adattamento, traduzione editoriale e letteratura per bambini e ragazzi.<br><br>Dopo quasi cinque anni come project manager in una società di localizzazione multilingua specializzata nel settore dei videogiochi, nel 2010 ho deciso di intraprendere la strada della traduttrice freelance. Finora la scelta si è rivelata azzeccata: faccio un lavoro che mi piace e mi offre sempre nuovi stimoli che ben si sposano con la mia naturale curiosità."
+
+    },
+    "contacts": {
+      "title": "Contatti",
+      "website": "www.atelierdelleparole.com",
+      "header": "Cristina Contini",
+      "subheader": "Traduttrice Freelance",
+      "description": "Per informazioni o tariffe, per richiedere un CV dettagliato o semplicemente per scambiare opinioni, è possibile contattarmi all'indirizzo",
+      "email": "<a class=\"oemail\" href=\"&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#115;&#64;&#97;&#116;&#101;&#108;&#105;&#101;&#114;&#100;&#101;&#108;&#108;&#101;&#112;&#97;&#114;&#111;&#108;&#101;&#46;&#99;&#111;&#109;\">&#99;<!-- @ -->&#111;<!-- @ -->&#110;<!-- @ -->&#116;<!-- > -->&#97;<!-- > -->&#99;<!-- > -->&#116;<!-- > -->&#115;<!-- > -->&#64;<!-- @ -->&#97;<!-- @ -->&#116;<!-- @ -->&#101;<!-- > -->&#108;<!-- @ -->&#105;<!-- @ -->&#101;<!-- > -->&#114;<!-- > -->&#100;<!-- @ -->&#101;<!-- @ -->&#108;<!-- > -->&#108;<!-- > -->&#101;<!-- @ -->&#112;<!-- @ -->&#97;<!-- > -->&#114;<!-- @ -->&#111;<!-- @ -->&#108;<!-- > -->&#101;<!-- > -->&#46;<!-- > -->&#99;<!-- > -->&#111;<!-- > -->&#109;<!-- @ --></a>"
+
+    }
+  }
