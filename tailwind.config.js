@@ -22,5 +22,5 @@ module.exports = {
   variants: {
     textShadow: ["responsive"],
   },
-  plugins: [require("tailwindcss-textShadow")],
+  plugins: [require("tailwindcss-textshadow")],
 }
