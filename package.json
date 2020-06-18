@@ -5,6 +5,7 @@
   "version": "0.9.0",
   "author": "Christian Sarnataro",
   "dependencies": {
+    "email-cloack": "^1.0.0",
     "gatsby": "^2.20.12",
     "gatsby-background-image": "^1.0.1",
     "gatsby-image": "^2.3.1",
